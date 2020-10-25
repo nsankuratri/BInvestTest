@@ -11,5 +11,6 @@ public class App
 
         System.out.println( "Hello World!first test" );
         System.out.println( "Hello World!first devtest branch created" );
+        System.out.println( "Hello World!first devtest2 branch created" );
     }
 }
